@@ -1,5 +1,5 @@
 /*
-The Jquery Tutorial by mwenyewe!
+Basic Script
  */
 $(document).ready(
     index //Call them by their names :) if they dont hv parameters
@@ -7,7 +7,6 @@ $(document).ready(
 
 function index() {
 //    //$('span').mouseenter(mimi);
-//   //$('.attribution').hide();
 }
 
 function fahad(){
