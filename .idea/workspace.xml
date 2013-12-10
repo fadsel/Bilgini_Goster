@@ -5,7 +5,7 @@
     <ignored path="Bilgini_Goster.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386613617063" ignored="false" />
-    <file path="/header.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386615577178" ignored="false" />
+    <file path="/header.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386615688425" ignored="false" />
     <file path="/footer.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386614133121" ignored="false" />
     <file path="/index.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386614080511" ignored="false" />
     <file path="/dummy.xml" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386614081017" ignored="false" />
@@ -28,19 +28,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usuals/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="548" selection-end="548" vertical-scroll-proportion="0.5123967">
+            <state line="3" column="36" selection-start="60" selection-end="68" vertical-scroll-proportion="-2.325">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="17" selection-start="56" selection-end="75" vertical-scroll-proportion="-1.3076923">
+            <state line="2" column="18" selection-start="100" selection-end="100" vertical-scroll-proportion="0.08192771">
               <folding />
             </state>
           </provider>
@@ -260,13 +260,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="17" selection-start="56" selection-end="75" vertical-scroll-proportion="-1.3076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/usuals/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="16" selection-start="89" selection-end="89" vertical-scroll-proportion="-2.6153846">
@@ -276,7 +269,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/usuals/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="548" selection-end="548" vertical-scroll-proportion="0.5123967">
+        <state line="3" column="36" selection-start="60" selection-end="68" vertical-scroll-proportion="-2.325">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="18" selection-start="100" selection-end="100" vertical-scroll-proportion="0.08192771">
           <folding />
         </state>
       </provider>
