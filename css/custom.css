@@ -12,3 +12,41 @@ table{
    float:left ;
 
 }
+
+.btn-bilgini {
+    color: #ffffff;
+    background-color: #000000;
+    border-color: #cda11c;
+}
+.btn-bilgini:hover,
+.btn-bilgini:focus,
+.btn-bilgini:active,
+.btn-bilgini.active,
+.open .dropdown-toggle.btn-bilgini {
+    color: #000000;
+    background-color: #DBDBEA;
+    border-color: #000000;
+}
+.btn-bilgini:active,
+.btn-bilgini.active,
+.open .dropdown-toggle.btn-bilgini {
+    background-image: none;
+}
+.btn-bilgini.disabled,
+.btn-bilgini[disabled],
+fieldset[disabled] .btn-bilgini,
+.btn-bilgini.disabled:hover,
+.btn-bilgini[disabled]:hover,
+fieldset[disabled] .btn-bilgini:hover,
+.btn-bilgini.disabled:focus,
+.btn-bilgini[disabled]:focus,
+fieldset[disabled] .btn-bilgini:focus,
+.btn-bilgini.disabled:active,
+.btn-bilgini[disabled]:active,
+fieldset[disabled] .btn-bilgini:active,
+.btn-bilgini.disabled.active,
+.btn-bilgini[disabled].active,
+fieldset[disabled] .btn-bilgini.active {
+    background-color: #6c4a1c;
+    border-color: #cda11c;
+}
