@@ -7,7 +7,7 @@
     <file path="/Dummy.txt" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386846465745" ignored="false" />
     <file path="/header.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386857341753" ignored="false" />
     <file path="/footer.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386614133121" ignored="false" />
-    <file path="/index.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386962329746" ignored="false" />
+    <file path="/index.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386963523717" ignored="false" />
     <file path="/dummy.xml" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386961380491" ignored="false" />
     <file path="/menu.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386859919415" ignored="false" />
     <file path="/stylish-portfolio.html" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386857987033" ignored="false" />
@@ -44,10 +44,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="46" selection-start="2371" selection-end="2371" vertical-scroll-proportion="22.644068">
+            <state line="2" column="39" selection-start="115" selection-end="115" vertical-scroll-proportion="0.07125307">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usuals/search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="6" selection-start="468" selection-end="468" vertical-scroll-proportion="-6.5384617">
               <folding />
             </state>
           </provider>
@@ -77,10 +86,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="41" selection-start="1650" selection-end="1650" vertical-scroll-proportion="0.7525773">
+            <state line="77" column="9" selection-start="1442" selection-end="1442" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -129,9 +138,10 @@
         <option value="$PROJECT_DIR$/css/stylish-portfolio.css" />
         <option value="$PROJECT_DIR$/usuals/sideBar.php" />
         <option value="$PROJECT_DIR$/css/kituChaPembeni.css" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/usuals/header.php" />
         <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/usuals/search.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -460,9 +470,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="46" selection-start="2371" selection-end="2371" vertical-scroll-proportion="22.644068">
+        <state line="77" column="9" selection-start="1442" selection-end="1442" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -474,9 +484,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/usuals/search.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="41" selection-start="1650" selection-end="1650" vertical-scroll-proportion="0.7525773">
+        <state line="10" column="6" selection-start="468" selection-end="468" vertical-scroll-proportion="-6.5384617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="39" selection-start="115" selection-end="115" vertical-scroll-proportion="0.07125307">
           <folding />
         </state>
       </provider>
