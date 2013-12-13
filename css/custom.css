@@ -54,8 +54,9 @@ fieldset[disabled] .btn-bilgini.active {
 .row {
     margin-left: 0px;
     margin-right: 0px;
+    margin-bottom: -14px;
 }
 
 #startHere{
-    margin-top:-16px;
+    margin-top:-5px;
 }
