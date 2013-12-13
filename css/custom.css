@@ -60,3 +60,29 @@ fieldset[disabled] .btn-bilgini.active {
 #startHere{
     margin-top:-5px;
 }
+
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.75);
+}
+
+.title b {
+    font-weight: 900;
+    background: #ffffff;
+    display: inline-block;
+    padding: 0 10px;
+
+}
+
+.title h1, .title h2, .title h3 {
+    background: transparent url(../img/title.png) repeat-x 50% 50%;
+}
+
+body{
+    font-family:  "Open Sans","museo-sans",sans-serif   ;
+}
+h2 {
+    font-family: "Open Sans","museo-sans", Arial, sans-serif;
+    letter-spacing: -0.04em;
+}
