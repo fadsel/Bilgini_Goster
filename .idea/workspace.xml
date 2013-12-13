@@ -7,7 +7,7 @@
     <file path="/Dummy.txt" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386846465745" ignored="false" />
     <file path="/header.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386857341753" ignored="false" />
     <file path="/footer.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386614133121" ignored="false" />
-    <file path="/index.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386933439166" ignored="false" />
+    <file path="/index.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386933647129" ignored="false" />
     <file path="/dummy.xml" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386614081017" ignored="false" />
     <file path="/menu.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386859919415" ignored="false" />
     <file path="/stylish-portfolio.html" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386857987033" ignored="false" />
@@ -44,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="41" selection-start="176" selection-end="176" vertical-scroll-proportion="-4.237288">
+            <state line="5" column="240" selection-start="375" selection-end="375" vertical-scroll-proportion="0.55282557">
               <folding />
             </state>
           </provider>
@@ -77,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="21" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.9312715">
+            <state line="59" column="21" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,8 +130,8 @@
         <option value="$PROJECT_DIR$/usuals/header.php" />
         <option value="$PROJECT_DIR$/usuals/sideBar.php" />
         <option value="$PROJECT_DIR$/css/kituChaPembeni.css" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -467,16 +467,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="41" selection-start="176" selection-end="176" vertical-scroll-proportion="-4.237288">
+        <state line="59" column="21" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="21" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.9312715">
+        <state line="5" column="240" selection-start="375" selection-end="375" vertical-scroll-proportion="0.55282557">
           <folding />
         </state>
       </provider>
