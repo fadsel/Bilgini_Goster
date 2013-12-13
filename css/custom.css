@@ -50,3 +50,12 @@ fieldset[disabled] .btn-bilgini.active {
     background-color: #6c4a1c;
     border-color: #cda11c;
 }
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#startHere{
+    margin-top:-16px;
+}

@@ -7,14 +7,14 @@
     <file path="/Dummy.txt" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386846465745" ignored="false" />
     <file path="/header.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386857341753" ignored="false" />
     <file path="/footer.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386614133121" ignored="false" />
-    <file path="/index.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386857318368" ignored="false" />
+    <file path="/index.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386933439166" ignored="false" />
     <file path="/dummy.xml" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386614081017" ignored="false" />
     <file path="/menu.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386859919415" ignored="false" />
     <file path="/stylish-portfolio.html" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386857987033" ignored="false" />
     <file path="/stylish-portfolio.css" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386858389830" ignored="false" />
     <file path="/sideBar.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386860436576" ignored="false" />
     <file path="/bgo-bootstrap.css" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386858895112" ignored="false" />
-    <file path="/custom.css" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386859530576" ignored="false" />
+    <file path="/custom.css" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386933453326" ignored="false" />
     <file path="/kituChaPembeni.css" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386861151435" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,33 +38,7 @@
       <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usuals/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="34" selection-start="297" selection-end="297" vertical-scroll-proportion="-8.923077">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stylish-portfolio.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stylish-portfolio.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="196" column="4" selection-start="7882" selection-end="8812" vertical-scroll-proportion="-6.470588">
-              <folding>
-                <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#3;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#4;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#5;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#6;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#7;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kituChaPembeni.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/kituChaPembeni.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="3" selection-start="858" selection-end="858" vertical-scroll-proportion="37.68">
+            <state line="8" column="34" selection-start="297" selection-end="297" vertical-scroll-proportion="-6.105263">
               <folding />
             </state>
           </provider>
@@ -73,7 +47,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="76" selection-end="115" vertical-scroll-proportion="-3.8461537">
+            <state line="5" column="41" selection-start="176" selection-end="176" vertical-scroll-proportion="-4.237288">
               <folding />
             </state>
           </provider>
@@ -82,7 +56,7 @@
       <file leaf-file-name="menu.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usuals/menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="126" selection-start="606" selection-end="620" vertical-scroll-proportion="-11.423077">
+            <state line="9" column="126" selection-start="606" selection-end="620" vertical-scroll-proportion="-7.071429">
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
@@ -94,7 +68,7 @@
       <file leaf-file-name="sideBar.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usuals/sideBar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="19" selection-start="490" selection-end="490" vertical-scroll-proportion="-5.769231">
+            <state line="6" column="59" selection-start="530" selection-end="530" vertical-scroll-proportion="-4.4117646">
               <folding>
                 <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#!!top" expanded="true" />
@@ -106,16 +80,16 @@
       <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="19" selection-start="235" selection-end="241" vertical-scroll-proportion="0.106529206">
+            <state line="59" column="21" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.9312715">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bgo-bootstrap.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bgo-bootstrap.css">
+      <file leaf-file-name="kituChaPembeni.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/kituChaPembeni.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1914" column="1" selection-start="33909" selection-end="34832" vertical-scroll-proportion="-23.52">
+            <state line="32" column="8" selection-start="408" selection-end="428" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -124,7 +98,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usuals/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="40" selection-start="462" selection-end="462" vertical-scroll-proportion="-12.0">
+            <state line="3" column="25" selection-start="153" selection-end="153" vertical-scroll-proportion="2.909091">
               <folding />
             </state>
           </provider>
@@ -148,16 +122,16 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/stylish-portfolio.html" />
         <option value="$PROJECT_DIR$/usuals/footer.php" />
         <option value="$PROJECT_DIR$/css/bgo-bootstrap.css" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/usuals/menu.php" />
         <option value="$PROJECT_DIR$/css/stylish-portfolio.css" />
         <option value="$PROJECT_DIR$/usuals/header.php" />
         <option value="$PROJECT_DIR$/usuals/sideBar.php" />
         <option value="$PROJECT_DIR$/css/kituChaPembeni.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
       </list>
     </option>
   </component>
@@ -438,28 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylish-portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="196" column="4" selection-start="7882" selection-end="8812" vertical-scroll-proportion="-6.470588">
-          <folding>
-            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#3;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#4;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#5;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#6;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#7;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usuals/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="40" selection-start="462" selection-end="462" vertical-scroll-proportion="-12.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/bgo-bootstrap-min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="5843" selection-start="5842" selection-end="5843" vertical-scroll-proportion="0.3514151">
@@ -469,14 +421,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bgo-bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1914" column="1" selection-start="33909" selection-end="34832" vertical-scroll-proportion="-23.52">
+        <state line="1914" column="1" selection-start="33909" selection-end="34832" vertical-scroll-proportion="5.1017966">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuals/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="25" selection-start="153" selection-end="153" vertical-scroll-proportion="2.909091">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuals/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="34" selection-start="297" selection-end="297" vertical-scroll-proportion="-6.105263">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/usuals/menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="126" selection-start="606" selection-end="620" vertical-scroll-proportion="-11.423077">
+        <state line="9" column="126" selection-start="606" selection-end="620" vertical-scroll-proportion="-7.071429">
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
@@ -484,16 +450,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usuals/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="34" selection-start="297" selection-end="297" vertical-scroll-proportion="-8.923077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/usuals/sideBar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="19" selection-start="490" selection-end="490" vertical-scroll-proportion="-5.769231">
+        <state line="6" column="59" selection-start="530" selection-end="530" vertical-scroll-proportion="-4.4117646">
           <folding>
             <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#!!top" expanded="true" />
@@ -501,23 +460,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/css/kituChaPembeni.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="76" selection-end="115" vertical-scroll-proportion="-3.8461537">
+        <state line="32" column="8" selection-start="408" selection-end="428" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/kituChaPembeni.css">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="3" selection-start="858" selection-end="858" vertical-scroll-proportion="37.68">
+        <state line="5" column="41" selection-start="176" selection-end="176" vertical-scroll-proportion="-4.237288">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="19" selection-start="235" selection-end="241" vertical-scroll-proportion="0.106529206">
+        <state line="59" column="21" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.9312715">
           <folding />
         </state>
       </provider>
