@@ -18,7 +18,7 @@
     <file path="/kituChaPembeni.css" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1387233862783" ignored="false" />
     <file path="/search.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1387233287813" ignored="false" />
     <file path="/mambo.js" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1387234842195" ignored="false" />
-    <file path="/slider.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1387235735838" ignored="false" />
+    <file path="/slider.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1387237006052" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +59,10 @@
       <file leaf-file-name="slider.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modules/slider.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="41" selection-start="734" selection-end="734" vertical-scroll-proportion="0.38134593">
-              <folding />
+            <state line="21" column="21" selection-start="846" selection-end="846" vertical-scroll-proportion="0.4214876">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -575,8 +577,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/slider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="41" selection-start="734" selection-end="734" vertical-scroll-proportion="0.38134593">
-          <folding />
+        <state line="21" column="21" selection-start="846" selection-end="846" vertical-scroll-proportion="0.4214876">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
