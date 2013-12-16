@@ -81,8 +81,25 @@ fieldset[disabled] .btn-bilgini.active {
 
 body{
     font-family:  "Open Sans","museo-sans",sans-serif   ;
+
+    font-weight: lighter;
 }
 h2 {
     font-family: "Open Sans","museo-sans", Arial, sans-serif;
     letter-spacing: -0.04em;
+}
+
+.jumbotron {
+
+    padding: 4px 7px 17px 19px;
+    margin-bottom: 31px;
+    font-size: 21px;
+    font-weight: lighter;
+    line-height: 1.342857;
+    color: white;
+    background-color: #7c2a17;
+}
+
+ul li a{
+    height:52px;
 }
