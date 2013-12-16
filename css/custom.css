@@ -99,3 +99,8 @@ h2 {
     background-color: #7c2a17;
 }
 
+::selection {
+    color: white;
+    background-color: #cda11c;
+    
+}

@@ -14,7 +14,7 @@
     <file path="/stylish-portfolio.css" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386858389830" ignored="false" />
     <file path="/sideBar.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1387131704414" ignored="false" />
     <file path="/bgo-bootstrap.css" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386858895112" ignored="false" />
-    <file path="/custom.css" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1387231918818" ignored="false" />
+    <file path="/custom.css" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1387235566929" ignored="false" />
     <file path="/kituChaPembeni.css" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1387233862783" ignored="false" />
     <file path="/search.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1387233287813" ignored="false" />
     <file path="/mambo.js" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1387234842195" ignored="false" />
@@ -47,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="3" selection-start="450" selection-end="450" vertical-scroll-proportion="0.20070839">
+            <state line="9" column="0" selection-start="447" selection-end="447" vertical-scroll-proportion="-5.8846154">
               <folding />
             </state>
           </provider>
@@ -94,10 +94,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="4" selection-start="1606" selection-end="1606" vertical-scroll-proportion="0.0">
+            <state line="104" column="4" selection-start="1993" selection-end="1993" vertical-scroll-proportion="0.83505154">
               <folding />
             </state>
           </provider>
@@ -115,13 +115,11 @@
       <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usuals/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="194" selection-end="194" vertical-scroll-proportion="-1.1923077">
+            <state line="13" column="29" selection-start="322" selection-end="348" vertical-scroll-proportion="-2.225">
               <folding>
                 <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
-                <marker date="1387231351132" expanded="true" signature="593:639" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -162,13 +160,13 @@
         <option value="$PROJECT_DIR$/usuals/header.php" />
         <option value="$PROJECT_DIR$/usuals/sideBar.php" />
         <option value="$PROJECT_DIR$/usuals/footer.php" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/usuals/menu.php" />
         <option value="$PROJECT_DIR$/usuals/search.php" />
         <option value="$PROJECT_DIR$/css/kituChaPembeni.css" />
         <option value="$PROJECT_DIR$/js/mambo.js" />
         <option value="$PROJECT_DIR$/modules/slider.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
       </list>
     </option>
   </component>
@@ -462,10 +460,8 @@
         <state line="2" column="16" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
-            <marker date="1387231351132" expanded="true" signature="593:639" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -489,10 +485,8 @@
         <state line="2" column="16" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
-            <marker date="1387231351132" expanded="true" signature="593:639" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -525,29 +519,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usuals/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="194" selection-end="194" vertical-scroll-proportion="-1.1923077">
-          <folding>
-            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
-            <marker date="1387231351132" expanded="true" signature="593:639" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/usuals/menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="60" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="4" selection-start="1606" selection-end="1606" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -586,7 +560,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="3" selection-start="450" selection-end="450" vertical-scroll-proportion="0.20070839">
+        <state line="9" column="0" selection-start="447" selection-end="447" vertical-scroll-proportion="-5.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuals/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="29" selection-start="322" selection-end="348" vertical-scroll-proportion="-2.225">
+          <folding>
+            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="4" selection-start="1993" selection-end="1993" vertical-scroll-proportion="0.83505154">
           <folding />
         </state>
       </provider>
