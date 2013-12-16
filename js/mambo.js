@@ -4,7 +4,8 @@ Basic Script
 $(document).ready(
     index (),//Call them by their names :) if they dont hv parameters
     NiRunMimiForSideBar(),
-    ForOpeningAndClosingSideBar()
+    ForOpeningAndClosingSideBar(),
+    slider()
 
 );
 
@@ -70,5 +71,12 @@ function ForOpeningAndClosingSideBar(){
         $("#sidebar-wrapper").toggleClass("active");
     });
 
+}
+
+
+function slider(){
+    $('.carousel').carousel({
+        interval: 1000
+    })
 }
 
