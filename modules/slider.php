@@ -8,7 +8,7 @@
         <li data-target="#carousel-example-generic" data-slide-to="2"></li>
     </ol>
 
-    <!-- Wrapper for slides -->
+    <!-- Wrapper for slider -->
     <div class="carousel-inner">
         <div class="item active">
             <img src="./img/test/callout3.jpg" alt="...">
