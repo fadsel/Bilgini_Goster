@@ -4,7 +4,7 @@
     <list default="true" id="526edd01-184b-4f79-890d-1796acc2456d" name="Default" comment="" />
     <ignored path="Bilgini_Goster.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386846465745" ignored="false" />
+    <file path="/Dummy.txt" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1387036740953" ignored="false" />
     <file path="/header.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386857341753" ignored="false" />
     <file path="/footer.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386614133121" ignored="false" />
     <file path="/index.php" changelist="526edd01-184b-4f79-890d-1796acc2456d" time="1386963523717" ignored="false" />
@@ -35,19 +35,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/usuals/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="64" selection-start="426" selection-end="435" vertical-scroll-proportion="-7.631579">
+            <state line="2" column="8" selection-start="31" selection-end="31" vertical-scroll-proportion="0.05923345">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="39" selection-start="115" selection-end="115" vertical-scroll-proportion="0.07125307">
+            <state line="2" column="39" selection-start="115" selection-end="115" vertical-scroll-proportion="-1.3076923">
               <folding />
             </state>
           </provider>
@@ -65,11 +65,8 @@
       <file leaf-file-name="menu.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usuals/menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="126" selection-start="606" selection-end="620" vertical-scroll-proportion="-7.071429">
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="9" column="126" selection-start="606" selection-end="620" vertical-scroll-proportion="-5.8846154">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,11 +74,8 @@
       <file leaf-file-name="sideBar.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usuals/sideBar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="59" selection-start="530" selection-end="530" vertical-scroll-proportion="-4.4117646">
-              <folding>
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="6" column="59" selection-start="530" selection-end="530" vertical-scroll-proportion="-3.9230769">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,7 +101,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usuals/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="25" selection-start="153" selection-end="153" vertical-scroll-proportion="2.909091">
+            <state line="3" column="25" selection-start="153" selection-end="153" vertical-scroll-proportion="-1.9615384">
               <folding />
             </state>
           </provider>
@@ -149,8 +143,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -247,9 +241,9 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../AfterVize" />
-    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -261,9 +255,12 @@
       <TestRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -297,15 +294,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2590909" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -314,6 +310,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -424,21 +421,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bgo-bootstrap-min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5843" selection-start="5842" selection-end="5843" vertical-scroll-proportion="0.3514151">
-          <folding />
-        </state>
+        <state line="0" column="5843" selection-start="5842" selection-end="5843" vertical-scroll-proportion="0.3514151" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bgo-bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1914" column="1" selection-start="33909" selection-end="34832" vertical-scroll-proportion="5.1017966">
-          <folding />
-        </state>
+        <state line="1914" column="1" selection-start="33909" selection-end="34832" vertical-scroll-proportion="5.1017966" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/usuals/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="25" selection-start="153" selection-end="153" vertical-scroll-proportion="2.909091">
+        <state line="3" column="25" selection-start="153" selection-end="153" vertical-scroll-proportion="-1.9615384">
           <folding />
         </state>
       </provider>
@@ -450,26 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usuals/sideBar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="59" selection-start="530" selection-end="530" vertical-scroll-proportion="-4.4117646">
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usuals/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="126" selection-start="606" selection-end="620" vertical-scroll-proportion="-7.071429">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="77" column="9" selection-start="1442" selection-end="1442" vertical-scroll-proportion="0.0">
@@ -477,9 +450,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usuals/header.php">
+    <entry file="file://$PROJECT_DIR$/usuals/sideBar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="64" selection-start="426" selection-end="435" vertical-scroll-proportion="-7.631579">
+        <state line="6" column="59" selection-start="530" selection-end="530" vertical-scroll-proportion="-3.9230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuals/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="126" selection-start="606" selection-end="620" vertical-scroll-proportion="-5.8846154">
           <folding />
         </state>
       </provider>
@@ -493,7 +473,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="39" selection-start="115" selection-end="115" vertical-scroll-proportion="0.07125307">
+        <state line="2" column="39" selection-start="115" selection-end="115" vertical-scroll-proportion="-1.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuals/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="8" selection-start="31" selection-end="31" vertical-scroll-proportion="0.05923345">
           <folding />
         </state>
       </provider>
