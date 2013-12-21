@@ -3,7 +3,7 @@
 <?php include('usuals/sideBar.php'); ?>
 
 <div class="row">
-    <div class="jumbotron" id="startHere"><h2><b>Documentation</b></h2>Abromo was here , (welcome) Opps their isnt one :), We have to learn bootstrap  inorder to toggle the CSS with different devices <b>Beyler</b> tablet , mobile , desktop & Big machines</div>
+    <div class="jumbotron" id="startHere"><h2><b>Documentation</b></h2>Abromo was here , (welcome) Opps their isnt one :), We have to learn bootstrap  inorder to toggle the CSS with different devices <b>Beyler</b> <b>I'm Ceylan</b>tablet , mobile , desktop & Big machines</div>
 </div>
 
 <?php  include('modules/slider.php'); ?>
