@@ -10,7 +10,11 @@
 
     <div class="row">
         <div class="well col-lg-4" ><h2><b>Plagiarism</b></h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
-        <div class="well col-lg-4" ><h2><b>Önce sync yapalim</b></h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+		
+		
+        <div class="well col-lg-4" ><h2><b>To Do List</b></h2>1- Kullanıcı Profil Arayüzü (User Profile Interface)<br/>2- Akademisyen Profil Arayüzü <br/> 3- Şirket yetkilisi Profil arayüzü <br/> 4- Plagiarism raporlama tablosu arayüzü <br/> 5- Stackoverflow arayüzü <br/> 6- Makale yayınlama arayüzü (like blog) <br/> 7- Görev verme ve alma arayüzü <br/> 8- Anasayfa düzenlemeleri</div>
+		
+		
         <div class="well col-lg-4" ><h2><b>Stack Overflow</b></h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
     </div>
 
