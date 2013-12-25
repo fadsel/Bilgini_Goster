@@ -1,5 +1,5 @@
 <div class=" col-lg-9" id="verticalLine">
-    <div class="row"><img style="padding-left:0px;border: 1px solid #ae4928;margin-right: 0px;" src="./img/test/video.jpg" /> </div><br>
+    <div class="row"><img style="border: 1px solid #ae4928;" src="./img/test/video.jpg" /> </div><br>
     <div class="row">
         <h2><b>What can you do on Bilgini Goster?</b></h2>
 
@@ -33,6 +33,15 @@
     Privacy Policy , we are going to write about it.
     Suggestion & Complain Desk , we will develop a module for accepting suggestions and
     complains from the users and companies that use “Bilgini Göster”.</p>
+        <h2><b>Features & includes</b></h2>
+        Bilgini Goster provides an unparalleled array of features and reusable components that let you hit the ground running:
+        Responsive 12-column grid
+        13 custom, modular jQuery plugins
+        CSS styles for forms, navigation & more
+        Dozens of reusable components
+        Components are scaled according to a range of resolutions and devices
+        Built on LESS (CSS included)
+        Complete styleguide documentation
     </div>
 <br>
 

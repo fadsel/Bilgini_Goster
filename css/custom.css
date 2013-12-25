@@ -104,9 +104,11 @@ h2 {
     background-color: #cda11c;
 
 }
-
+/*it overrides the col-9*/
 #verticalLine {
-
     border-left: 1px solid  #ae4928;
-
+    margin-left:0px;padding-left: 20px;
+    padding-right: 0px;
 }
+
+
