@@ -131,4 +131,35 @@ position: absolute;
 top:4px;
 }
 
+/*  Plagiarism*/
+hr {
+    margin-top: -4px;
+    margin-bottom: -11px;
+}
+.bil {
+    padding: 11px 7px 26px 0px;
+    margin-bottom: 20px;
+    margin-top: 25px;
+    font-size: 17px;
+    font-weight: lighter;
+    line-height: 1.342857;
+    color: white;
+    background-color: #444444;
+}
 
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+
+.marks{
+    font-size: 64px;
+    margin-left: -18px;
+    margin-top: 19px;
+}
+
+.more{
+    display: none;
+}
