@@ -10,7 +10,7 @@
                 <br><b>Subject : </b>  <?php echo $subject;?>
                 <br><b>Professor : </b> M.Çelik
                 <br><b>Class : </b> BZ303
-                <br><b>Document Name : </b> rapor.docx
+                <br><b>Document Name : </b> <?php echo $docTitle;?>
                 <br>
 
 

@@ -20,9 +20,9 @@
         <img style="border: 1px solid #ae4928;" src="./img/test/cover.jpg" />
     </div><br>
     <div class="row">
-        <h2><b>Pragiarism</b></h2>
+        <h2><b>Pragiarism </b>| What is it?</h2>
         <hr>
-        <div class="row"><div class=""><h2>What is it?</h2><p class="lead ">This part lets you compare files and see if their is any relationship in them i.e %Copy</p></div><br>
+        <div class="row"><div class=""><h2></h2><p class="lead ">This is a module that lets you not only compare files but also see if their is any relationship in them i.e It lets you see the document's details on wheither it is <b>authentic</b> or somebody did a copy paste scenario</p></div><br>
             <div class="row">
 
                 <div class="pull-right">
@@ -50,12 +50,13 @@
 
                 </div>
             </div><br>
-            <i class="pull-right" ><i class="glyphicon glyphicon-eye-open"></i> Click To toggle Document Details</i></div>
+            <i class="pull-right" ><i class="glyphicon glyphicon-eye-open"></i> Click on the <b>rows</b> to toggle Document's Extra Details</i></div>
 
         <?php
             $name="Fahad";
             $subject = "Data Structures";
             $marks = "23";
+            $docTitle = "Bilgini Goster";
             include('plagiarism_row.php');
         ?>
 
@@ -63,26 +64,30 @@
             $name="Abdullah";
             $subject = "Veriler";
             $marks = "34";
+            $docTitle = "1.Rapor";
             include('plagiarism_row.php');
         ?>
 
         <?php
             $name="Abromo";
-            $subject = "Veriler";
+            $subject = "DBMS";
             $marks = "56";
+            $docTitle = "Rapor1";
             include('plagiarism_row.php');
         ?>
         <?php
             $name="Ceylan";
-            $subject = "Data Structures";
+            $subject = "Project Management";
             $marks = "45";
+            $docTitle = "2.Rapor";
             include('plagiarism_row.php');
         ?>
 
         <?php
             $name="Bayramov";
-            $subject = "Veriler";
+            $subject = "Architechture 101";
             $marks = "44";
+            $docTitle = "Rapor";
             include('plagiarism_row.php');
         ?>
 
@@ -90,6 +95,7 @@
             $name="Ali";
             $subject = "Veriler";
             $marks = "34";
+            $docTitle = "Rapor_Sample";
             include('plagiarism_row.php');
         ?>
 
