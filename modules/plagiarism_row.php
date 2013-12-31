@@ -1,7 +1,8 @@
 <div class="row">
     <div class="bil">
         <div class="row">
-            <div class="col-lg-2"><img src="./img/test/profile_dummy.png"
+            <div class="col-lg-2"><img src="<?php echo $img_src; ?>" style1="position: absolute;width: 123px;
+            clip: rect(0px,139px,105px,0px);"
                                        class="img-thumbnail   img-responsive">
             </div>
             <div class="col-lg-8" style="margin-bottom: 15px">

@@ -10,10 +10,7 @@
             <br><p class="lead">This is a place where you can find all of your activities for the mean time  , i.e plagiarism , your job offers e.t.c</p>
         </div>
 
-
-
-
-    <br>
+     <br>
 
 
     <div class="row">
@@ -52,16 +49,11 @@
             </div><br>
             <i class="pull-right" ><i class="glyphicon glyphicon-eye-open"></i> Click on the <b>rows</b> to toggle Document's Extra Details</i></div>
 
-        <?php
-            $name="Fahad";
-            $subject = "Data Structures";
-            $marks = "23";
-            $docTitle = "Bilgini Goster";
-            include('plagiarism_row.php');
-        ?>
+
 
         <?php
             $name="Abdullah";
+            $img_src="./img/temp/img (6).jpg";
             $subject = "Veriler";
             $marks = "34";
             $docTitle = "1.Rapor";
@@ -70,32 +62,54 @@
 
         <?php
             $name="Abromo";
+            $img_src="./img/temp/img (3).jpg";
             $subject = "DBMS";
-            $marks = "56";
-            $docTitle = "Rapor1";
+            $marks = "8";
+            $docTitle = "Rapor 1";
             include('plagiarism_row.php');
         ?>
-        <?php
-            $name="Ceylan";
-            $subject = "Project Management";
-            $marks = "45";
-            $docTitle = "2.Rapor";
-            include('plagiarism_row.php');
-        ?>
+
 
         <?php
             $name="Bayramov";
+            $img_src="./img/temp/img (8).jpg";
             $subject = "Architechture 101";
             $marks = "44";
-            $docTitle = "Rapor";
+            $docTitle = "Ara Rapor";
             include('plagiarism_row.php');
         ?>
 
         <?php
-            $name="Ali";
+            $name="Asma";
+            $img_src="./img/temp/img (9).jpg";
             $subject = "Veriler";
             $marks = "34";
             $docTitle = "Rapor_Sample";
+            include('plagiarism_row.php');
+        ?>
+        <?php
+            $name="Fahad";
+            $img_src="./img/temp/img (1).jpg";
+            $subject = "Data Structures";
+            $marks = "23";
+            $docTitle = "Bilgini Goster";
+            include('plagiarism_row.php');
+        ?>
+        <?php
+            $name="MwanaKombo";
+            $img_src="./img/temp/img (10).jpg";
+            $subject = "Veriler";
+            $marks = "67";
+            $docTitle = "Rapor_Sample";
+            include('plagiarism_row.php');
+        ?>
+
+        <?php
+            $name="Ceylan";
+            $img_src="./img/temp/img (7).jpg";
+            $subject = "Project Management";
+            $marks = "45";
+            $docTitle = "2.Rapor";
             include('plagiarism_row.php');
         ?>
 
