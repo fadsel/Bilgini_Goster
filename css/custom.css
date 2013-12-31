@@ -51,6 +51,48 @@ fieldset[disabled] .btn-bilgini.active {
     border-color: #cda11c;
 }
 
+
+.btn-safi {
+    color: #ffffff;
+    background-color: #ae4928;
+
+    border-color: #cda11c;
+}
+.btn-safi:hover,
+.btn-safi:focus,
+.btn-safi:active,
+.btn-safi.active,
+.open .dropdown-toggle.btn-safi {
+    color: #ffffff;
+    background-color: #cda11c;
+    border-color: #a04000;
+}
+.btn-safi:active,
+.btn-safi.active,
+.open .dropdown-toggle.btn-safi {
+    background-image: none;
+}
+.btn-safi.disabled,
+.btn-safi[disabled],
+fieldset[disabled] .btn-safi,
+.btn-safi.disabled:hover,
+.btn-safi[disabled]:hover,
+fieldset[disabled] .btn-safi:hover,
+.btn-safi.disabled:focus,
+.btn-safi[disabled]:focus,
+fieldset[disabled] .btn-safi:focus,
+.btn-safi.disabled:active,
+.btn-safi[disabled]:active,
+fieldset[disabled] .btn-safi:active,
+.btn-safi.disabled.active,
+.btn-safi[disabled].active,
+fieldset[disabled] .btn-safi.active {
+    background-color: #e93f5c;
+    border-color: #000000;
+}
+
+
+
 .row {
     margin-left: 0px;
     margin-right: 0px;
@@ -85,7 +127,7 @@ body{
 }
 h2 {
     font-family: "Open Sans","museo-sans", Arial, sans-serif;
-    letter-spacing: -0.04em;
+    letter-spacing: -0.07em;
 }
 
 .jumbotron {
@@ -163,3 +205,4 @@ hr {
 .more{
     display: none;
 }
+
