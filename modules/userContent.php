@@ -20,15 +20,40 @@
         <h1>Pragiarism</h1>
         <hr>
         <div class="row"><div class=""><h2>What is it?</h2>This part lets you compare files and see if their is any relationship in them i.e %Copy</div><i class="pull-right" ><i class="glyphicon glyphicon-eye-open"></i> Click To toggle Document Details</i></div>
-    <?php   $name="Fahad";
+
+        <?php   $name="Fahad";
             $subject = "Data Structures";
-            $marks = "78";
+            $marks = "23";
             include('plagiarism_row.php');
         ?>
-    <?php   $name="Bussury";
+
+        <?php   $name="Abdullah";
             $subject = "Veriler";
-            $marks = "65";
+            $marks = "34";
             include('plagiarism_row.php');
+        ?>
+
+        <?php   $name="Abromo";
+        $subject = "Veriler";
+        $marks = "56";
+        include('plagiarism_row.php');
+        ?>
+        <?php   $name="Ceylan";
+        $subject = "Data Structures";
+        $marks = "45";
+        include('plagiarism_row.php');
+        ?>
+
+        <?php   $name="Bayramov";
+        $subject = "Veriler";
+        $marks = "44";
+        include('plagiarism_row.php');
+        ?>
+
+        <?php   $name="Ali";
+        $subject = "Veriler";
+        $marks = "34";
+        include('plagiarism_row.php');
         ?>
 
     </div>
