@@ -112,3 +112,23 @@ h2 {
 }
 
 
+/**iHElp*/
+.donate {
+width: 250px;
+height: 30px;
+overflow: hidden;
+position: relative;
+text-align:center;
+padding:10px;
+cursor: pointer;
+background-color: #ae4928;
+color: #fff;
+
+}
+
+.donate_layer {
+position: absolute;
+top:4px;
+}
+
+
