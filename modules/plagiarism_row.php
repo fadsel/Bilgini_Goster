@@ -5,11 +5,12 @@
                                        class="img-thumbnail   img-responsive">
             </div>
             <div class="col-lg-8" style="margin-bottom: 15px">
-                <b>Document Name : </b> rapor.docx
+                <b>Client : </b> <?php echo $name;?>
+
                 <br><b>Subject : </b>  <?php echo $subject;?>
                 <br><b>Professor : </b> M.Çelik
                 <br><b>Class : </b> BZ303
-                <br><b>Client : </b> <?php echo $name;?>
+                <br><b>Document Name : </b> rapor.docx
                 <br>
 
 

@@ -98,6 +98,6 @@ $(function(){
 /** function to trigger the more part*/
 $(function(){
     $('.bil').click(function(){
-        $('.more').stop().slideToggle()});
+        $('.more',this).stop().slideToggle(200)});
 
 });
