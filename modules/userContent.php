@@ -52,39 +52,45 @@
             </div><br>
             <i class="pull-right" ><i class="glyphicon glyphicon-eye-open"></i> Click To toggle Document Details</i></div>
 
-        <?php   $name="Fahad";
+        <?php
+            $name="Fahad";
             $subject = "Data Structures";
             $marks = "23";
             include('plagiarism_row.php');
         ?>
 
-        <?php   $name="Abdullah";
+        <?php
+            $name="Abdullah";
             $subject = "Veriler";
             $marks = "34";
             include('plagiarism_row.php');
         ?>
 
-        <?php   $name="Abromo";
-        $subject = "Veriler";
-        $marks = "56";
-        include('plagiarism_row.php');
+        <?php
+            $name="Abromo";
+            $subject = "Veriler";
+            $marks = "56";
+            include('plagiarism_row.php');
         ?>
-        <?php   $name="Ceylan";
-        $subject = "Data Structures";
-        $marks = "45";
-        include('plagiarism_row.php');
-        ?>
-
-        <?php   $name="Bayramov";
-        $subject = "Veriler";
-        $marks = "44";
-        include('plagiarism_row.php');
+        <?php
+            $name="Ceylan";
+            $subject = "Data Structures";
+            $marks = "45";
+            include('plagiarism_row.php');
         ?>
 
-        <?php   $name="Ali";
-        $subject = "Veriler";
-        $marks = "34";
-        include('plagiarism_row.php');
+        <?php
+            $name="Bayramov";
+            $subject = "Veriler";
+            $marks = "44";
+            include('plagiarism_row.php');
+        ?>
+
+        <?php
+            $name="Ali";
+            $subject = "Veriler";
+            $marks = "34";
+            include('plagiarism_row.php');
         ?>
 
     </div>
