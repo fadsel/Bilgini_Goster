@@ -93,3 +93,11 @@ $(function(){
     });
     
  });
+
+
+/** function to trigger the more part*/
+$(function(){
+    $('.bil').click(function(){
+        $('.more').stop().slideToggle()});
+
+});
