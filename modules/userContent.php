@@ -17,7 +17,7 @@
         <img style="border: 1px solid #ae4928;" src="./img/test/cover.jpg" />
     </div><br>
     <div class="row">
-        <h2><b>Plagiarism </b>| What is it?</h2>
+        <h2><b>Plagiarism </b>| <i style="font-size: 0.8em;">What is it?</i></h2>
         <hr>
         <div class="row"><div class=""><h2></h2><p class="lead ">This is a module that lets you not only compare files but also see if their is any relationship in them i.e It lets you see the document's details on wheither it is <b>authentic</b> or somebody did a copy paste scenario</p></div><br>
             <div class="row">
