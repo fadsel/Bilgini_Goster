@@ -7,13 +7,13 @@ include('usuals/menu.php');
         <div class="row"><img src="img/test/profile_dummy.png" class="col-lg-12"></div><br>
         <div class="row">
             <p><b>Name :</b>
-                Abromo Bayramov
+                Dr.Harper Mcklaskey
                 </p>
             <p><b>User Type :</b>
-                Student</p>
+                Admin</p>
             <p><b>Adress :</b>
                 2708 C Street
-                Nantucket,<br> MA 02554 , Kayseri</p>
+                Nantucket,<br> MA 02554 , Kayseri, Turkey</p>
 
 
         </div>

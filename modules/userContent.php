@@ -53,9 +53,9 @@
 
         <?php
             $name="Abdullah";
-            $img_src="./img/temp/img (6).jpg";
+            $img_src="./img/temp/img (1).jpg";
             $subject = "Veriler";
-            $marks = "34";
+            $marks = "12";
             $docTitle = "1.Rapor";
             include('plagiarism_row.php');
         ?>
@@ -64,7 +64,7 @@
             $name="Abromo";
             $img_src="./img/temp/img (3).jpg";
             $subject = "DBMS";
-            $marks = "8";
+            $marks = "08";
             $docTitle = "Rapor 1";
             include('plagiarism_row.php');
         ?>
@@ -89,7 +89,7 @@
         ?>
         <?php
             $name="Fahad";
-            $img_src="./img/temp/img (1).jpg";
+            $img_src="./img/temp/img (6).jpg";
             $subject = "Data Structures";
             $marks = "23";
             $docTitle = "Bilgini Goster";
