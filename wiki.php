@@ -4,7 +4,7 @@ $page_id = "wiki";
 include('usuals/menu.php'); ?>
 <?php include('usuals/sideBar.php'); ?>
 
-<div class="row">
+<div class="row" id="startHere1">
     <div class="jumbotron" id="startHere"><h2><b>Documantasyon</b></h2>Uzun vadede, eleman ihtiyacı olan ticari kurumlar bu sistem ile, ayrı bir bütçe ayırmadan,kendileri için özel elemanlar yetistirme imkanı bulacak ve görevlerle kendini gelistiren kisileri endi belirledigi puanlama sistemine uygun sıralama ile görüp iletisime geçebileceklerdir.</div>
 </div>
 

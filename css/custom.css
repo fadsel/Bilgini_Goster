@@ -54,7 +54,7 @@ fieldset[disabled] .btn-bilgini.active {
 
 .btn-safi {
     color: #ffffff;
-    background-color: #ae4928;
+    background-color:#7c2a17;
 
     border-color: #cda11c;
 }
@@ -65,7 +65,7 @@ fieldset[disabled] .btn-bilgini.active {
 .open .dropdown-toggle.btn-safi {
     color: #ffffff;
     background-color: #cda11c;
-    border-color: #a04000;
+    border-color: #7c2a17;
 }
 .btn-safi:active,
 .btn-safi.active,

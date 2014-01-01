@@ -103,18 +103,30 @@ $('.bil').click(function(){
 });
 
 
+
+/** function to spy the scrolling , Mwite ScrollNaye*/
 $(function(){
-    $(window).scroll(checkNaye);
+    $(window).scroll(scrollNaye);
 
 
 });
 
-function checkNaye(){
-    var test = $(this).scrollTop();
+function scrollNaye(){
+    /**
+     * define it outside , reducing the time to calculate more
+     * @type {number|jQuery}
+     * @fadsel
+     */
+    var whereAmI = $(this).scrollTop();
+    /**
+     *
+     * yeah the scrollTop gives error their , but it works fine :)
+     * When ome bosy scrolls follow were it stopped
+     *
+     */
     if($(this).scrollTop()>=0){
-        //test/100;
 
-       $('.kulia').stop().animate({marginTop:test},400);
+       $('.kulia').stop().animate({marginTop:whereAmI},400);
 
     }
 
