@@ -5,7 +5,7 @@
         <form action="">
         <div class="search form-group col-lg-offset-2 col-lg-8" ><!-- NEED TO CENTER THIS -->
             <input type="text" class="form-control " id="inputProjectSearch" placeholder="What are you looking for?" data-role="search-textbox" data-url="?" value=""><p></p>
-            <a href="#top" class="btn btn-bilgini" data-role="search-button">Search</a>
+            <a href="#q-search" class="btn btn-bilgini" data-role="search-button">Search</a>
         </div>
         </form>
     </header>

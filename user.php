@@ -2,8 +2,8 @@
 $page_id = "home";
 include('usuals/menu.php');
 ?>
-<div class="row">
-    <div class="col-lg-3" >
+<div class="row " >
+    <div class="col-lg-3 kulia" >
         <div class="row"><img src="img/test/profile_dummy.png" class="col-lg-12"></div><br>
         <div class="row">
             <p><b>Name :</b>

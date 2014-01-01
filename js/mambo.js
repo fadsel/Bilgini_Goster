@@ -103,3 +103,20 @@ $('.bil').click(function(){
 });
 
 
+$(function(){
+    $(window).scroll(checkNaye);
+
+
+});
+
+function checkNaye(){
+    var test = $(this).scrollTop();
+    if($(this).scrollTop()>=0){
+        //test/100;
+
+       $('.kulia').stop().animate({marginTop:test},400);
+
+    }
+
+}
+

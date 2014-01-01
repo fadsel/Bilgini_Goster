@@ -1,4 +1,5 @@
-<nav class="navbar navbar-inverse" role="navigation" id="top">
+
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" id="top">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -65,3 +66,4 @@
         </ul>
     </div><!-- /.navbar-collapse -->
 </nav>
+<br><br><br><br>
