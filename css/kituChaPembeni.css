@@ -6,6 +6,15 @@ body {
   width: 100%;
 }
 
+#menu-close {
+    margin-top: 33px;
+    margin-right: 16px;
+}
+
+.toggle {
+    /*margin: 7px 5px 0 0;*/
+}
+
 .vert-text {
   display: table-cell;
   vertical-align: middle;
@@ -23,7 +32,7 @@ body {
 
 #sidebar-wrapper {
   margin-right: -250px;
-  top:0px;
+  top:50px;
   right: 0;
   width: 250px;
   background: #000;
@@ -87,14 +96,14 @@ body {
 }
 
 #menu-toggle {
-  top: 0;
+  top: 57px;
   right: 0;
   position: fixed;
   z-index: 1;
 }
 
 #sidebar-wrapper.active {
-  top:0px;
+  top:53px;
   right: 250px;
   width: 250px;
   -webkit-transition: all 0.4s ease 0s;
@@ -104,9 +113,7 @@ body {
   transition: all 0.4s ease 0s;
 }
 
-.toggle {
-  margin: 5px 5px 0 0;
-}
+
 
 /* Full Page Image Header Area */
 
@@ -199,11 +206,7 @@ i.service-icon {
   height: 500px;
 }
 
-/* Footer */
 
-footer {
-  padding: 100px 0;
-}
 
 .top-scroll {
   margin-top: 50px;
@@ -237,8 +240,36 @@ i.scroll:hover {
 	height: 75%;
   }
 
-}
 
-#menu-close {
-    margin-top: 36px;
+
+    #menu-close {
+        margin-top: 33px;
+        margin-right: 16px;
+    }
+
+    .toggle {
+        /*margin: 7px 5px 0 0;*/
+    }
+
+    }
+
+@media (min-width: 0px) and (max-width: 1363px) {
+
+
+    #menu-toggle {
+        top: 64px;
+        right: 10px;
+        position: fixed;
+        z-index: 1000;
+    }
+    #menu-toggle img{
+        width:40px;
+    }
+
+
+
+    #menu-close {
+        margin-top: 36px;
+    }
+
 }

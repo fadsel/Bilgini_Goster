@@ -51,6 +51,48 @@ fieldset[disabled] .btn-bilgini.active {
     border-color: #cda11c;
 }
 
+
+.btn-safi {
+    color: #ffffff;
+    background-color:#7c2a17;
+
+    border-color: #cda11c;
+}
+.btn-safi:hover,
+.btn-safi:focus,
+.btn-safi:active,
+.btn-safi.active,
+.open .dropdown-toggle.btn-safi {
+    color: #ffffff;
+    background-color: #cda11c;
+    border-color: #7c2a17;
+}
+.btn-safi:active,
+.btn-safi.active,
+.open .dropdown-toggle.btn-safi {
+    background-image: none;
+}
+.btn-safi.disabled,
+.btn-safi[disabled],
+fieldset[disabled] .btn-safi,
+.btn-safi.disabled:hover,
+.btn-safi[disabled]:hover,
+fieldset[disabled] .btn-safi:hover,
+.btn-safi.disabled:focus,
+.btn-safi[disabled]:focus,
+fieldset[disabled] .btn-safi:focus,
+.btn-safi.disabled:active,
+.btn-safi[disabled]:active,
+fieldset[disabled] .btn-safi:active,
+.btn-safi.disabled.active,
+.btn-safi[disabled].active,
+fieldset[disabled] .btn-safi.active {
+    background-color: #e93f5c;
+    border-color: #000000;
+}
+
+
+
 .row {
     margin-left: 0px;
     margin-right: 0px;
@@ -81,8 +123,85 @@ fieldset[disabled] .btn-bilgini.active {
 
 body{
     font-family:  "Open Sans","museo-sans",sans-serif   ;
+    font-weight: lighter;
 }
 h2 {
     font-family: "Open Sans","museo-sans", Arial, sans-serif;
-    letter-spacing: -0.04em;
+    letter-spacing: -0.07em;
+}
+
+.jumbotron {
+
+    padding: 4px 7px 17px 19px;
+    margin-bottom: 31px;
+    font-size: 21px;
+    font-weight: lighter;
+    line-height: 1.342857;
+    color: white;
+    background-color: #7c2a17;
+}
+
+::selection {
+    color: white;
+    background-color: #cda11c;
+
+}
+/*it overrides the col-9*/
+#verticalLine {
+    border-left: 1px solid  #ae4928;
+    margin-left:0px;padding-left: 20px;
+    padding-right: 0px;
+}
+
+
+/**iHElp*/
+.donate {
+width: 250px;
+height: 30px;
+overflow: hidden;
+position: relative;
+text-align:center;
+padding:10px;
+cursor: pointer;
+background-color: #ae4928;
+color: #fff;
+
+}
+
+.donate_layer {
+position: absolute;
+top:4px;
+}
+
+/*  Plagiarism*/
+hr {
+    margin-top: -4px;
+    margin-bottom: -11px;
+}
+.bil {
+    padding: 11px 7px 9px 0px;
+    margin-bottom: 20px;
+    margin-top: 25px;
+    font-size: 17px;
+    font-weight: lighter;
+    line-height: 1.342857;
+    color: white;
+    background-color: #444444;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+
+.marks{
+    font-size: 64px;
+    margin-left: -18px;
+    margin-top: 9px;
+}
+
+.more{
+    display: none;
 }
